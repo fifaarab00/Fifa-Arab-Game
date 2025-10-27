@@ -112,6 +112,7 @@ footer {
   font-weight: bold;
   cursor: pointer;
   margin-top: 10px;
+  display: none;
 }
 
 /* صندوق الرسائل */
